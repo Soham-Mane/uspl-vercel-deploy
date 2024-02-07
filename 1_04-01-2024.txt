@@ -1,0 +1,7 @@
+DateTime: 10:22:09, Activity:Internet Connevtivity FoundBANKNIFTY2411047900CE option SOLD Time 10:55:02 at LTP 394.65, Points gained = -20.90,Amount Gained = -5016.00 ,Total Points gained =73.35 and Total P&L =  17357.25 
+
+BANKNIFTY2411047900CE option BOUGHT Time 11:00:01 at LTP 388.9, SL: 0.0 and Target: 10000000.0 at Index: 47967.8 and QTY = 195
+BANKNIFTY2411047900CE option SOLD Time 11:06:02 at LTP 486.0, Points gained = 97.10,Amount Gained = 18934.50 ,Total Points gained =52.45 and Total P&L =  12341.25 
+
+BANKNIFTY2411048000CE option BOUGHT Time 11:07:02 at LTP 414.8, SL: 0.0 and Target: 10000000.0 at Index: 48058.94 and QTY = 180
+DateTime: 03:52:55, Activity:Internet Connevtivity Found

@@ -1,0 +1,5 @@
+DateTime: 03:03:31, Activity:Internet Connevtivity FoundBANKNIFTY2410347800PE option SOLD Time 03:08:01 at LTP 139.4, Points gained = 9.05,Amount Gained = 6380.25 ,Total Points gained =102.80 and Total P&L =  31461.75 
+
+BANKNIFTY2410347700PE option BOUGHT Time 03:09:00 at LTP 41.65, SL: 0.0 and Target: 10000000.0 at Index: 47685.74 and QTY = 1920
+BANKNIFTY2410347700PE option SOLD Time 03:12:34 at LTP 9.4, Points gained = -32.25,Amount Gained = -342978.75 ,Total Points gained =111.85 and Total P&L =  38385.00 
+

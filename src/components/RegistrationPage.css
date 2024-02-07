@@ -1,0 +1,155 @@
+RegistrationPage.css
+
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    
+    
+}
+
+
+.gradient-form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: linear-gradient(to right, #37474F, #90A4AE);
+}
+
+.container {
+    background-color: #ECEFF1;
+    border-radius: 8px;
+    overflow: hidden;
+    max-width: 1200px; 
+    width: 100%;
+    margin: 0 auto; 
+    
+}
+
+.cardmain {
+    display: flex;
+}
+
+.cardheight {
+    height: 100%;
+}
+
+.card-body {
+    text-align: center;
+    padding: 2rem;
+}
+
+
+.Radio-container {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+}
+
+.form-check {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.form-check input {
+    margin-right: 0.5rem;
+}
+
+/* .form-group {
+    margin-bottom: 1.5rem;
+} */
+
+.input-group {
+    position: relative;
+}
+
+.input-group-addon {
+    background-color: #CFD8DC;
+    padding: 0.75rem;
+    border-radius: 4px;
+}
+
+.form-control {
+    width: 100%;
+    padding: 0.5rem; 
+    border: 1px solid #B0BEC5;
+    border-radius: 4px;
+}
+
+
+.btn {
+    display: inline-block;
+    padding: 0.75rem 1.5rem;
+    margin-bottom: 1rem;
+    font-size: 1rem;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    border: none;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+}
+
+.btn-primary {
+    color: #FFFFFF;
+    background-color:purple;
+}
+
+.btn-primary:hover {
+    background-color:purple;
+}
+
+
+
+#note ul {
+    color: black;
+    padding-left: 2rem;
+}
+
+
+
+.col-sm-4{
+     min-width: 200px; 
+}   
+
+li::marker{
+    color: black;
+}
+ul {list-style-type: circle;}
+
+.form-group.row{
+    padding-bottom: 10px;
+
+    display:flex ;
+}  
+
+.form-group.row .form-label {
+    width: 120px; 
+} 
+
+
+/* 
+.custom-country-selector {
+    width: 10px; 
+}
+ */
+
+.Back-Btn {
+    margin-top: 20px; 
+}
+
+.Back-Btn a {
+    color: purple;
+    font-size: 1rem;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.Back-Btn a:hover {
+    text-decoration: underline;
+}
+.col-sm-8{
+    min-width: 200px; 
+}

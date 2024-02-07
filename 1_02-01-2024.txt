@@ -1,0 +1,11 @@
+DateTime: 11:47:53, Activity:Internet Connevtivity FoundDateTime: 12:47:58, Activity:Internet Connevtivity Lost
+DateTime: 12:48:14, Activity:Internet Connevtivity Found
+BANKNIFTY2410347900PE option SOLD Time 01:04:02 at LTP 267.5, Points gained = 24.10,Amount Gained = 8676.00 ,Total Points gained =152.65 and Total P&L =  72777.75 
+
+BANKNIFTY2410347800PE option BOUGHT Time 01:05:02 at LTP 206.35, SL: 0.0 and Target: 10000000.0 at Index: 47795.9 and QTY = 375
+DateTime: 02:11:30, Activity:Internet Connevtivity Found
+BANKNIFTY2410347800PE option SOLD Time 03:08:02 at LTP 250.6, Points gained = 44.25,Amount Gained = 17257.50 ,Total Points gained =176.75 and Total P&L =  82538.25 
+
+BANKNIFTY2410347800PE option BOUGHT Time 03:10:02 at LTP 289.2, SL: 0.0 and Target: 10000000.0 at Index: 47719.85 and QTY = 270
+DateTime: 03:13:51, Activity:Internet Connevtivity Lost
+DateTime: 03:13:56, Activity:Internet Connevtivity Found
